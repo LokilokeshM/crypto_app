@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+
+const Color primary = Color(0xFF0064F5);
+const Color secondary = Color(0xFF2B2B2B);
+Color primaryLight = Colors.grey.shade300;
+const Color white = Color(0xFFFFFFFF);
+const Color black = Color(0xFF000000);
+const Color yellowStar = Color(0xFFfacb00);
+const online = Color(0xFF66BB6A);
+const blueStory = Colors.blueAccent;
+const kAccentColor = Color(0xFFF1F1F1);
+const kWhiteColor = Color(0xFFFFFFFF);
+const kLightColor = Color(0xFF808080);
+const kDarkColor = Color(0xFF303030);
+const kTransparent = Colors.transparent;
+const primaryChat = Colors.green;
+const red = Colors.red;
+const grey = Color.fromARGB(255, 204, 204, 206);
+const kDefaultPadding = 24.0;
+const kLessPadding = 10.0;
+const kFixPadding = EdgeInsets.symmetric(horizontal: 16, vertical: 8);
+const kLess = 4.0;
